@@ -34,7 +34,7 @@ The following radios have been tested for compatibility at this time:
 | EF Johnson VP/VM x000         | ✅ Tested      |
 | EF Johnson VP/VM x00          | ✅ Tested      |
 | EF Johnson 5100/ES            | ✅ Tested      |
-| Harris XG-100P                | ❔ Untested    |
+| Harris XG-100P                | ✅ Tested      |
 | Harris XG-100M (via CH100)    | ✅ Tested      |
 | Harris XG mobile (via 44-pin) | ✅ Tested      | Requires 14002-0143-10 adapter
 | Harris XG portable            | ❔ Untested    | Requires 14002-0143-01 adapter
