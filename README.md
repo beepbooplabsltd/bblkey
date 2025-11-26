@@ -88,6 +88,12 @@ The **bbl**key is designed easily be updated at home if a user wishes.
 
 Instructions will be provided when the first notable firmware update is released.
 
+## Security design
+
+As with any device that may come in contact with encryption key material, it is important to understand the security design and risk factors when using the **bbl**key.
+
+For more information, please review the in-depth discussion of the [**bbl**key security design](./security-design.md).
+
 ## Legal
 
 The names "beep boop labs" and "**bbl**key", and the alembic distiller and keyhole logos, are trademarks and/or copyrighted works of beep boop labs ltd. All rights are reserved.
