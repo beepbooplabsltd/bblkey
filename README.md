@@ -19,7 +19,7 @@ Unlike competing devices such as the KFDmicro and KFDpico, the **bbl**key is des
 
 ## Compatibility
 
-The **bbl**key is guaranteed to work with the following tested radios and software.
+The **bbl**key is guaranteed to work with the following tested radios, keyloaders, and software.
 
 *Have you used a **bbl**key with a different radio or software? [Please let us know!](mailto:contact@beepbooplabs.ltd)*
 
@@ -29,6 +29,7 @@ The following radios have been tested for compatibility at this time:
 
 | Radio series                  | Support status | Notes |
 |-------------------------------|----------------|-------|
+| Aeroflex IFR 2975             | ✅ Tested      |
 | Bendix-King BKR               | ✅ Tested      |
 | Bendix-King KNG               | ✅ Tested      |
 | EF Johnson VP/VM x000         | ✅ Tested      |
