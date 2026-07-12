@@ -55,14 +55,14 @@ The following radios have been tested for compatibility at this time:
 
 The following keyloaders have been tested for compatibility (sharing keys) at this time:
 
-| Keyloader              | From **bbl**key  | To **bbl**key     | Notes |
-|------------------------|------------------|-------------------|-------|
-| Motorola KVL 3000      | ❔ Untested      | ❔ Untested       |
-| Motorola KVL 3000+     | ❌ Not supported | ✅ Tested        |
-| Motorola KVL 4000      | ✅ Tested        | ✅ Tested        |
-| Motorola KVL 5000      | ✅ Tested        | ✅ Tested        |
-| Motorola KVL 7000      | ❔ Untested      | ❔ Untested       |
-| Tait EnableProtect KFD | ❔ Untested      | ❔ Untested       | Requires T03-00059-AAAA KFD to TIA adapter
+| Keyloader              | From **bbl**key  | To **bbl**key | Notes |
+|------------------------|------------------|---------------|-------|
+| Motorola KVL 3000      | ❌ Not supported | ✅ Tested     |
+| Motorola KVL 3000+     | ❌ Not supported | ✅ Tested     |
+| Motorola KVL 4000      | ✅ Tested        | ✅ Tested     |
+| Motorola KVL 5000      | ✅ Tested        | ✅ Tested     |
+| Motorola KVL 7000      | ❔ Untested      | ❔ Untested   |
+| Tait EnableProtect KFD | ❔ Untested      | ❔ Untested   | Requires T03-00059-AAAA KFD to TIA adapter
 
 ### Software
 
