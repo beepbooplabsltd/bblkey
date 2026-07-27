@@ -11,7 +11,7 @@ Unlike competing devices such as the KFDmicro and KFDpico, the **bbl**key is des
 - Durable aluminum enclosure
 - Recessed USB-C connector with quality USB-A to USB-C cable included
 - Exclusive improved [Rust](https://rust-lang.org/) firmware
-- Top-tier after-sale support from active [KFDtool](https://github.com/omahacommsys/KFDtool/) developers
+- Top-tier after-sale support from [KFDtool](https://github.com/omahacommsys/KFDtool/) developers
 
 ## 🛒 [Order now!](https://shop.beepbooplabs.ltd/products/bblkey)
 
@@ -66,11 +66,11 @@ The following keyloaders have been tested for compatibility (sharing keys) at th
 
 ### Software
 
-The **bbl**key is designed to work with the Omaha Communication Systems fork of the [KFDtool](https://github.com/omahacommsys/KFDtool/) software, version [**1.8.8**](https://github.com/omahacommsys/KFDtool/releases/tag/1.8.8) and newer.
+The **bbl**key is designed to work with the OCS fork of the open-source [KFDtool](https://github.com/omahacommsys/KFDtool/) software, version [**1.8.8**](https://github.com/omahacommsys/KFDtool/releases/tag/1.8.8), and will continue to support this release despite the project being archived.
 
-While not officially supported, the **bbl**key should work with the [KFDweb](https://github.com/grover556/KFDweb) browser-based tool.
+While not officially supported, the **bbl**key should work with software designed for the KFDshield protocol, including mobile apps and the [KFDweb](https://github.com/grover556/KFDweb) browser-based tool.
 
-Please note that the original [KFDtool](https://github.com/kfdtool/KFDtool/) software from KFDtool, LLC is **not** compatible with **bbl**key.
+We are carefully monitoring the future of the keyloading software ecosystem and continually evaluating compatibility and potential improvements.
 
 ## Firmware
 
