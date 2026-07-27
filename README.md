@@ -66,7 +66,7 @@ The following keyloaders have been tested for compatibility (sharing keys) at th
 
 ### Software
 
-The **bbl**key is designed to work with the OCS fork of the open-source [KFDtool](https://github.com/omahacommsys/KFDtool/) software, version [**1.8.8**](https://github.com/omahacommsys/KFDtool/releases/tag/1.8.8), and will continue to support this release despite the project being archived.
+The **bbl**key is designed to work with the OCS fork of the open-source [KFDtool](https://github.com/omahacommsys/KFDtool/) software, version [**1.8.8**](https://github.com/omahacommsys/KFDtool/releases/tag/1.8.8), and we will continue to support this release despite the project being archived.
 
 While not officially supported, the **bbl**key should work with software designed for the KFDshield protocol, including mobile apps and the [KFDweb](https://github.com/grover556/KFDweb) browser-based tool.
 
